@@ -1,1 +1,6 @@
+# Ignore system files and directories
 .sass-cache
+
+# Ignore generated files
+css/*
+*.html
